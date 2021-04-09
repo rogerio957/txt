@@ -1,0 +1,483 @@
+
+#EXTM3U
+
+#EXTINF:-1,iptvtools_5
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:-1,iptvtools_7
+https://stmv6.srvstm.com/classique/classique/playlist-480p.m3u8
+#EXTINF:-1,iptvtools_10
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,iptvtools_12
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1109850641.m3u8
+#EXTINF:-1,iptvtools_14
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1,iptvtools_19
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1,iptvtools_25
+http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
+#EXTINF:-1,iptvtools_27
+http://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
+#EXTINF:-1,iptvtools_28
+http://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
+#EXTINF:-1,iptvtools_29
+http://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
+#EXTINF:-1,iptvtools_31
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-1,iptvtools_32
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,iptvtools_34
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+#EXTINF:-1,iptvtools_36
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+#EXTINF:-1,iptvtools_37
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w688155486.m3u8
+#EXTINF:-1,iptvtools_39
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
+#EXTINF:-1,iptvtools_42
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,iptvtools_43
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w2046018657.m3u8?IMDSFULL
+#EXTINF:-1,iptvtools_46
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8?IMDSFULL
+#EXTINF:-1,iptvtools_47
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?IMDSFULL
+#EXTINF:-1,iptvtools_48
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8?IMDSFULL
+#EXTINF:-1,iptvtools_49
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1589454995.m3u8
+#EXTINF:-1,iptvtools_51
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w966877402.m3u8
+#EXTINF:-1,iptvtools_53
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1480932728.m3u8
+#EXTINF:-1,iptvtools_56
+https://stmv4.srvstm.com/tvserie/tvserie/chunklist_w101988563.m3u8
+#EXTINF:-1,iptvtools_64
+https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1,iptvtools_86
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_87
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_89
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_90
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,iptvtools_91
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,iptvtools_92
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,iptvtools_94
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,iptvtools_97
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_105
+https://video-auth1.iol.pt/beachcam/lecadapalmeira/playlist.m3u8
+#EXTINF:-1,iptvtools_106
+https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8
+#EXTINF:-1,iptvtools_108
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+#EXTINF:-1,iptvtools_112
+https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:-1,iptvtools_119
+https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
+#EXTINF:-1,iptvtools_120
+https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+#EXTINF:-1,iptvtools_121
+https://video-auth1.iol.pt/beachcam/matadouroskatepark/playlist.m3u8
+#EXTINF:-1,iptvtools_122
+https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
+#EXTINF:-1,iptvtools_127
+https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+#EXTINF:-1,iptvtools_128
+https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
+#EXTINF:-1,iptvtools_129
+https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
+#EXTINF:-1,iptvtools_131
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
+#EXTINF:-1,iptvtools_132
+https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
+#EXTINF:-1,iptvtools_134
+https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+#EXTINF:-1,iptvtools_137
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+#EXTINF:-1,iptvtools_139
+https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
+#EXTINF:-1,iptvtools_144
+https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
+#EXTINF:-1,iptvtools_146
+https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
+#EXTINF:-1,iptvtools_149
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
+#EXTINF:-1,iptvtools_151
+https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
+#EXTINF:-1,iptvtools_152
+https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
+#EXTINF:-1,iptvtools_153
+https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
+#EXTINF:-1,iptvtools_155
+https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
+#EXTINF:-1,iptvtools_163
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1,iptvtools_167
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1,iptvtools_168
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1,iptvtools_169
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:-1,iptvtools_170
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,iptvtools_173
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,iptvtools_177
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1,iptvtools_178
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1986932119.m3u8
+#EXTINF:-1,iptvtools_180
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w32293427.m3u8
+#EXTINF:-1,iptvtools_182
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w548058603.m3u8
+#EXTINF:-1,iptvtools_183
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1766127746.m3u8
+#EXTINF:-1,iptvtools_185
+https://novo.bitstreaming.info:1936/8032/8032/chunklist_w92011918.m3u8
+#EXTINF:-1,iptvtools_186
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w1770127557.m3u8
+#EXTINF:-1,iptvtools_189
+https://stmv1.samcast.com.br/tvpombal/tvpombal/chunklist_w1554173158.m3u8
+#EXTINF:-1,iptvtools_191
+http://c2.manasat.com:1935/kcine/kcine2/chunklist_w1725033292.m3u8
+#EXTINF:-1,iptvtools_200
+http://51.52.156.22:8888/http/009
+#EXTINF:-1,iptvtools_207
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,iptvtools_208
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1,iptvtools_211
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:-1,iptvtools_240
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1,iptvtools_247
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+#EXTINF:-1,iptvtools_254
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1,iptvtools_262
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:-1,iptvtools_310
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_311
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+#EXTINF:-1,iptvtools_338
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1986932119.m3u8
+#EXTINF:-1,iptvtools_340
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w32293427.m3u8
+#EXTINF:-1,iptvtools_342
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w548058603.m3u8
+#EXTINF:-1,iptvtools_343
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1766127746.m3u8
+#EXTINF:-1,iptvtools_358
+http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
+#EXTINF:-1,iptvtools_359
+http://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
+#EXTINF:-1,iptvtools_362
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+#EXTINF:-1,iptvtools_368
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,iptvtools_371
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,iptvtools_372
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,iptvtools_374
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,iptvtools_384
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1,iptvtools_385
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,iptvtools_438
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,iptvtools_482
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,iptvtools_496
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF:-1,iptvtools_505
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1,iptvtools_512
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,iptvtools_709
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1,iptvtools_864
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:-1,iptvtools_918
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1,|PT|HEVC| RTP 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81832
+#EXTINF:-1,|PT|HEVC| RTP 2 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81831
+#EXTINF:-1,|PT|HEVC| RTP 3 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81830
+#EXTINF:-1,|PT|HEVC| SIC HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81829
+#EXTINF:-1,|PT|HEVC| SIC MULHER HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81828
+#EXTINF:-1,|PT|HEVC| SIC NOTICIAS HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81827
+#EXTINF:-1,|PT|HEVC| SIC RADICAL HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81826
+#EXTINF:-1,|PT|HEVC| SIC CARAS HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81825
+#EXTINF:-1,|PT|HEVC| TVI HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81823
+#EXTINF:-1,|PT|HEVC| TVI24 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81822
+#EXTINF:-1,|PT|HEVC| PORTO CANAL HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81821
+#EXTINF:-1,|PT|HEVC| AMC HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81816
+#EXTINF:-1,|PT|HEVC| AXN HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81815
+#EXTINF:-1,|PT|HEVC| AXN WHITE HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81814
+#EXTINF:-1,|PT|HEVC| AXN MOVIES HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81813
+#EXTINF:-1,|PT|HEVC| TV CINE TOP HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81812
+#EXTINF:-1,|PT|HEVC| TV CINE EDITION HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81811
+#EXTINF:-1,|PT|HEVC| TV CINE EMOTION HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81810
+#EXTINF:-1,|PT|HEVC| TV CINE ACTION HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81809
+#EXTINF:-1,|PT|HEVC| FOX HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81808
+#EXTINF:-1,|PT|HEVC| FOX MOVIES HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81807
+#EXTINF:-1,|PT|HEVC| FOX CRIME HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81806
+#EXTINF:-1,|PT|HEVC| FOX LIFE HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81805
+#EXTINF:-1,|PT|HEVC| SYFY HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81804
+#EXTINF:-1,|PT|HEVC| NOS STUDIO HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81802
+#EXTINF:-1,##### |PT|HEVC| SERIES #####
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81801
+#EXTINF:-1,|PT|HEVC| HOLLYWOOD HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81800
+#EXTINF:-1,|PT|HEVC| CINEMUNDO HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81799
+#EXTINF:-1,|PT|HEVC| ODISSEIA HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81790
+#EXTINF:-1,|PT|HEVC| BTV 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81786
+#EXTINF:-1,|PT|HEVC| A BOLA TV HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81785
+#EXTINF:-1,|PT|HEVC| SPORTING TV HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81784
+#EXTINF:-1,|PT|HEVC| EUROSPORT 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81783
+#EXTINF:-1,|PT|HEVC| SPORT TV + HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81782
+#EXTINF:-1,|PT|HEVC| SPORT TV 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81781
+#EXTINF:-1,|PT|HEVC| SPORT TV 2 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81780
+#EXTINF:-1,|PT|HEVC| SPORT TV 3 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81779
+#EXTINF:-1,|PT|HEVC| SPORT TV NBA HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81778
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81777
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 2 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81776
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS  3 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81775
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 4 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81774
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 5 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81773
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 6 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81772
+#EXTINF:-1,|PT|HEVC| CMTV HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81769
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",FoxSport1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",FoxSport2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",FoxSport3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",TrueSportHD2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",TrueSportHD3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",TrueSportHD4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",TrueSport2
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",TrueSport6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",TrueSport7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",T Sport1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",T Sport2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",T Sport3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",T Sport4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",T Sport5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",BT Sport1
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",BT Sport2
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="SPORT USE",champion1
+http://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1328.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="SPORT USE",champion1+
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="SE SPORT",Dubai HorseRacing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SE SPORT",UFC1
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="SE SPORT",UFC2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="SE SPORT",TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="SE SPORT",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="SE SPORT",Racing.Com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 group-title="SE SPORT", FOOTBALL TV
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
+#EXTINF:-1 group-title="SE SPORT",@ytson1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="SE SPORT",@YTSON2HD
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="SE SPORT",Adventure sport
+https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 group-title="SE SPORT", DDSPORT
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="SE SPORT", Fight Sports
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1 group-title="SE SPORT", ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="SE SPORT", FLOW SPORT
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="SE SPORT", Swiss Sports
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:-1 group-title="SE SPORT",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby
+#EXTINF:-1 group-title="SE SPORT",Bahrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8?checkedby
+#EXTINF:-1 group-title="SE SPORT",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby
+#EXTINF:-1 group-title="SE SPORT",Eurosport 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8?checkedby
+#EXTINF:-1 group-title="SE SPORT",Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 1
+https://www.livedooMOVIES.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 2
+https://www.livedooMOVIES.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 3
+https://www.livedooMOVIES.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 4
+https://www.livedooMOVIES.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 5
+https://www.livedooMOVIES.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",BT sport 1
+https://www.livedooMOVIES.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",BT sport 2
+https://www.livedooMOVIES.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",KIX MOVIE
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",WARNER TV
+http://203.154.243.89:1205
+#EXTINF:-1 group-title="SE STREAM",SERIES ZONE
+https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Knowledge",Animal planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_1000.stream/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 1
+https://www.livedooMOVIES.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 2
+https://www.livedooMOVIES.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 3
+https://www.livedooMOVIES.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 4
+https://www.livedooMOVIES.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 5
+https://www.livedooMOVIES.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV LOCAL",TV ÁGUA BOA
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="FLMES", CLASSIQUE TV
+https://stmv6.srvstm.com/classique/classique/playlist-480p.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX BIG TITS
+http://live.redtraffic.xyz/bigtits.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX BLOWJOB
+http://live.redtraffic.xyz/blowjob.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX Fetish
+http://live.redtraffic.xyz/fetish.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX Interracial
+http://live.redtraffic.xyz/interracial.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX Latina
+http://live.redtraffic.xyz/latina.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX MILF
+http://live.redtraffic.xyz/milf.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX POV
+http://live.redtraffic.xyz/pov.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX Russian
+http://live.redtraffic.xyz/russian.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX Teen
+http://live.redtraffic.xyz/teen.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX Threesome
+http://live.redtraffic.xyz/threesome.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX TRANS 1
+https://www.ast.tv/stream/1/cellular.m3u8?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/gckSy0H.png" group-title="CANAIS ADULTOS",XXX TRANS 2
+https://www.ast.tv/stream/2/cellular.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8?IMDSFULL
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="FILMES E SÉRIES", HBO 
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1805.ts?token=SUZYUxZQRwJGBAtRUFpdDgQGBVgEU1NTUlMJAAJVAgZTUQIEXAEEClIRFERGFhddV1loCFdHC1cMBQwfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJVgVQHkZAWwEaXxpVCw9QBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcICglWF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFg0KBQNASA==
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="FILMES E SÉRIES", HBO HD
+http://185.2.83.16:25461/live/cibele/cibele/390.m3u8?token=TxAMVEBeQwMQBFEAWgRVUVdXVw0GDQQHBgABW1dcBwBWAABXVg8HDQAUGxoRRRBRV1hpXFYbDwAIUh5ARBcHEGtbABcJFFYBAQYDGk4TFl1bUBQPAhUXQ1gGEFgTV1NbAwBGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwAFAhsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwUEBQoBEUw=
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="FILMES E SÉRIES",HBO 2 TEMP
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1802.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="FILMES E SÉRIES",HBO 2
+http://185.152.66.81:25461/live/leticia/123456/1798.m3u8?token=SUZYUxZQRwJGBFkDVAdRCFUFAAdSVwUDBgZdB1MEDAcHBgBTBF1UDVwRFERGFhddV1loCFdHC1cDDAEfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAlACAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClIDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVUCXgMXRA
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="FILMES E SÉRIES", HBO FAMILY TEMP
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1801.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="FILMES E SÉRIES", HBO FAMILY
+http://178.132.4.88:25461/live/Paulo/12345/219.m3u8?token=TxAMVEBeQwMQBwUKVQlTVwYEBgYCDwAKBgMBBgBSVVYDAAJRAQNYCVMUGxoRRRBRV1hpXFYbDwEAWx5ARBcHEGtbABcJFFgMBQUPGk4TFl1bUBQPAhUXQ1gGEFgTVVJRBQFGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwEEBRsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwUHBwsMEUw=
+#EXTINF:-1 tvg-ID="HBO FAMILY HD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="FILMES E SÉRIES", HBO FAMILY HD
+http://185.152.66.81:25461/live/genaro/12345/1803.m3u8?token=SUZYUxZQRwJGClpTAAEDClcEBVQGVFAFUlAACgUHUwUEVANUVA9RXV0RFERGFhddV1loCFdHC1cMBQofExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+#EXTINF:-1 tvg-ID="HBO PLUS" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="FILMES E SÉRIES", HBO PLUS TEMP
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1800.ts
+#EXTINF:-1 tvg-ID="HBO PLUS" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="FILMES E SÉRIES", HBO PLUS
+http://178.132.4.88:25461/live/Santiago/12345/357.m3u8?token=TxAMVEBeQwMQBVNdWgRVUgIFDgwAClMFUwABUAdUA1pQUF1RVlAFAAQUGxoRRRBRV1hpXFYbDwAEVR5ARBcHEGtbABcJFFQBAA8OGk4TFl1bUBQPAhUXQ1gGEFgTVVNSDAtGGRFTGU1XRFlZDm4GUUBcVVAQA1tGXQ4eQF4KPQZRXwVbVxRbGwMUGxoLQhIWDBd0R1NKXF8RNlcOVAcNDxRhSnQdFE0bUF9DSgNFBxYMFwINBRsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFFgBTA0RHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwcMCgsCEUw=
+#EXTINF:-1 tvg-ID="HBO PLUS" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="FILMES E SÉRIES", HBO PLUS HD
+http://185.152.66.81:25461/live/ezequiel/12345/2154.m3u8?token=SUZYUxZQRwJGBV5fUFRVD1MFBVFQVQFRV1FaBAVXVlYCUQFTUwsHXFMRFERGFhddV1loCFdHC1QFAA0fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXClYDEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVTB1wJRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAF0BUBZI
+#EXTINF:-1 tvg-id="HBO PLUS *E" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="FILMES E SÉRIES", HBO PLUS *E
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="FILMES E SÉRIES", HBO SIGNATURE TEMP
+http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1798.ts
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="FILMES E SÉRIES", HBO SIGNATURE
+http://178.132.4.88:25461/live/Paulo/12345/1485.m3u8?token=TxAMVEBeQwMQAAEPUwNSBwAEDgAFCgYEUFNXUwACW1BWU1xXBg8AXVAUGxoRRRBRV1hpXFYbDwIFWgdOExERB0ZtDVERDEMABwEEAEAdQEBfWFMXCAkZEUELVkALRlBTBwJRFx8UBEFGU0VWA109UFNDX1ZXGw9dRA5eThMLDD1QVwlUXVJDAxAHFRRAWBFEFA8Ud0BYRlpdQmYHXQEBDVkSNxtyGEMVEFReTBBQFlEUDxQEAQ4BER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QVAZGCUAeQFgXPRBRQRBHVlcMXEAUDRpSE04WW1ROalFWW11UAUYLXgoRQA4QVRcfFAxWXF9DVxBuEl1SFwwXAAAECghATw==
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="FILMES E SÉRIES", HBO SIGNATURE
+http://185.152.66.81:25461/live/ezequiel/12345/1799.m3u8?token=SUZYUxZQRwJGUVxRAVtTDgVSVlVSXQkDDQ0PUVQDVgULBQlRXApXAFQRFERGFhddV1loCFdHC1cDDAAfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+
+
+
+
+
+
+
+
+
+
